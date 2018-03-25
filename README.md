@@ -34,6 +34,7 @@ db_connect.php
 insert_info.php
 
 The database used was MySQL 'indialearns' made in XAMPP.
+Thus it works only when the client is connected to the same network as the server/host.
 
 
 
